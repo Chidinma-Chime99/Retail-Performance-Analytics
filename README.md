@@ -6,7 +6,7 @@ The dashboard transforms retail transaction data into actionable business insigh
 
 📷 Dashboard Preview
 
-![Retail Sales Performance Dashboard](Dashboard_Screenshot.png)
+!(Dashboard_Screenshot.png)
 
 🎯 Project Objective
 
